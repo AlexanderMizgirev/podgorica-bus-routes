@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/podgorica-bus-routes/static/css/main.074b916d.css",
-    "main.js": "/podgorica-bus-routes/static/js/main.af79f792.js",
+    "main.js": "/podgorica-bus-routes/static/js/main.815f27d4.js",
     "static/media/icon.png": "/podgorica-bus-routes/static/media/icon.ec1b2cf830319b16ff4d.png",
     "index.html": "/podgorica-bus-routes/index.html",
     "main.074b916d.css.map": "/podgorica-bus-routes/static/css/main.074b916d.css.map",
-    "main.af79f792.js.map": "/podgorica-bus-routes/static/js/main.af79f792.js.map"
+    "main.815f27d4.js.map": "/podgorica-bus-routes/static/js/main.815f27d4.js.map"
   },
   "entrypoints": [
     "static/css/main.074b916d.css",
-    "static/js/main.af79f792.js"
+    "static/js/main.815f27d4.js"
   ]
 }
